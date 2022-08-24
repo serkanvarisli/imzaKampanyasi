@@ -1,2 +1,3 @@
-# UniversiteNotHesaplama
-Vize ve Final(ya da büt) notlarına göre ortalama ve harf notu hesaplama
+# İmza Kampanyası
+Sokak Hayvanları için imza kampanyası 
+demo: https://serkanvarisli.github.io/imzaKampanyasi/ 
